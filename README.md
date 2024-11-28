@@ -15,12 +15,12 @@
 `$ git status`  
 
 Inviare le modifiche effettuate al repo remoto
+
 ```bash
 $ git add .
 $ git commit -m "Elenco delle modifiche fatte"
 $ git push 
 ```  
 
-
 * Visionare i log  
-`$ git log` 
+`$ git log`  
