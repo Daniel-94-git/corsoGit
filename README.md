@@ -21,3 +21,6 @@ $ git commit -m "Elenco delle modifiche fatte"
 $ git push 
 ```  
 
+
+* Visionare i log  
+`$ git log` 
